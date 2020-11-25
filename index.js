@@ -18,5 +18,6 @@ function sayHiToGrandma(string){
 if (string.toLowerCase()){
 return "I can't hear you!" }
 }
-var sayhi = 'yes indeed'
-console.log (sayhi.toUpperCase())
+var string = "yes indeed!"
+  if (string.toUpperCase()){
+  return 'yes indeed!'}
