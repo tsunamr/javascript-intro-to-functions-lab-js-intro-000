@@ -26,4 +26,4 @@ response = "I can't hear you!" }
 
 else if (string === string.toUpperCase()) {
   response = "YES INDEED!"}
-  return response
+  return response }
